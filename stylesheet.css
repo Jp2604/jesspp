@@ -1,0 +1,40 @@
+.well p{
+	text-align:left;
+	
+	text-shadow:1px;
+}
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+    
+  .carousel-inner img {
+      width: 100%; 
+      margin: auto;
+      min-height:200px;
+  }
+  .carousel-caption a{
+   
+   text-align: center;
+   float: center;
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom:1000px;
+
+}  
+
+
+  @media (max-width: 600px) {
+    .carousel-caption { 
+      display: none; 
+    } 
+  }
+  .container{
+	  background-color:black;
